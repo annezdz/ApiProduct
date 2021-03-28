@@ -3,7 +3,7 @@
 ![](https://www.redspark.io/wp-content/uploads/2020/03/android.png)
 
 ![](https://img.shields.io/badge/android-studio-brightgreen)  
-![]](https://img.shields.io/badge/android-5.1-brightgreen)
+![](https://img.shields.io/badge/android-5.1-brightgreen)
 
 Esse projeto é uma API de Produtos realizada através de mentoria  
 juntamente com a Everis e Digital Innovation Onde cujo objetivo foi  
